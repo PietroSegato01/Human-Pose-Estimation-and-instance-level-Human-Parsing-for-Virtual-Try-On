@@ -5,3 +5,5 @@ https://github.com/ZheC/tf-pose-estimation/tree/master (implementazione di OpenP
 
 https://colab.research.google.com/drive/1yM--K03ZvSiEi8Pudj5Vj_pWiZ6GI__y#scrollTo=nyoyNJ_GHe76
 (colab human pose estimation - openpose)
+
+https://colab.research.google.com/drive/1xVOCyLcUvd8LI7zAnJZUJkZJumqWjDcR?authuser=1#scrollTo=7du-Sgqcl3zi (implementazione VITON-HD)
