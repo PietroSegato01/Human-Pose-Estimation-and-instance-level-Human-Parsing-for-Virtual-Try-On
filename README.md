@@ -51,9 +51,9 @@ The goal of this project is to implement a state-of-the-art virtual try-on syste
 
 ## Authors
 
-- **Segato Pietro**
-- **Vezzosi Giacomo**
-- **Vitali Giovanni**
+- **Segato Pietro** (pietro.segato.1@studenti.unipd.it)
+- **Vezzosi Giacomo** (giacomo.vezzosi@studenti.unipd.it)
+- **Vitali Giovanni** (giovanni.vitali@studenti.unipd.it)
 
 *This project is a collaborative work carried out for the Vision and Cognitive System course at the University of Padova.*
 
@@ -62,10 +62,12 @@ The goal of this project is to implement a state-of-the-art virtual try-on syste
 ## References
 
 - **VITONHD Framework:**  
-  [VITONHD Repository](https://github.com/your-vitonhd-repository) *(replace with the actual link)*
+  [VITONHD Repository](https://github.com/shadow2496/VITON-HD)
 - **OpenPose:**  
   [OpenPose GitHub](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  [OpenPose Pytorch](https://github.com/Hzzone/pytorch-openpose)
 - **Self-Correction Segmentation:**  
-  *(Include relevant paper or repository link if available)*
+  [SSSegmentation]([https://github.com/shadow2496/VITON-HD](https://github.com/SegmentationBLWX/sssegmentation))
+  [Self-Correction Human parsing](https://github.com/GoGoDuck912/Self-Correction-Human-Parsing)
 
 *Additional references and citations to related works and methodologies are included as appropriate.*
