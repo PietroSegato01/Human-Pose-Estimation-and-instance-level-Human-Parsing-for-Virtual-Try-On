@@ -1,4 +1,4 @@
-# Project-Vison
+# Human Pose Estimation and instance-level Human Parsing for Virtual Try-On
 
 Dall’official github siamo riusciti a creare un notebook su Colab VITON-HD_implementation.ipynb, che fa girare tutto il codice contenuto nel https://github.com/shadow2496/VITON-HD (si riesce a fare testing, ma solo con le loro immagini già preprocessate). 
 
