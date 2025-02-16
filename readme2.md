@@ -1,4 +1,4 @@
-# VITONHD Virtual Try-On Project
+# Human Pose Estimation and instance-level Human Parsing for Virtual Try-On
 
 This repository contains the code and resources for the VITONHD-based virtual try-on pipeline, developed as a group project for the **Vision and Cognitive System** course at the University of Padova.
 
@@ -69,13 +69,3 @@ The goal of this project is to implement a state-of-the-art virtual try-on syste
   *(Include relevant paper or repository link if available)*
 
 *Additional references and citations to related works and methodologies are included as appropriate.*
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-For any questions, contributions, or further information, please feel free to open an issue or contact one of the authors.
