@@ -16,7 +16,7 @@ This repository contains the code and resources for the VITONHD-based virtual tr
 
 ## Overview
 
-The goal of this project is to implement a state-of-the-art virtual try-on system by integrating our custom modules within the VITONHD framework. The system leverages:
+The goal of this project is to implement a virtual try-on system by integrating our custom modules within the VITONHD framework. The system leverages:
 - **Self-Correction Segmentation:** Our segmentation module for accurately extracting garment masks.
 - **OpenPose Pose Estimation:** A robust module for detecting human keypoints to ensure proper garment alignment.
 - **VITONHD Framework:** A high-resolution virtual try-on method that synthesizes realistic images by combining the outputs from the segmentation and pose estimation stages.
@@ -67,7 +67,7 @@ The goal of this project is to implement a state-of-the-art virtual try-on syste
   [OpenPose GitHub](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
   [OpenPose Pytorch](https://github.com/Hzzone/pytorch-openpose)
 - **Self-Correction Segmentation:**  
-  [SSSegmentation]([https://github.com/shadow2496/VITON-HD](https://github.com/SegmentationBLWX/sssegmentation))
+  [SSSegmentation]([https://github.com/shadow2496/VITON-HD](https://github.com/SegmentationBLWX/sssegmentation)) 
   [Self-Correction Human parsing](https://github.com/GoGoDuck912/Self-Correction-Human-Parsing)
 
 *Additional references and citations to related works and methodologies are included as appropriate.*
